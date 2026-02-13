@@ -55,12 +55,12 @@
 
 <div class="card">
     <h1> Asanda ❤️</h1>
-    <p> I know its a bit too late but...</p>
+    <p> I built this site so you always have a reminder of how much I love you❤️ I know I might be late but...</p>
     <button onclick="showMessage()">Open</button>
 
     <div id="message" class="hidden">
-        <p>Will you be my Valentine sthandwa sami? 💌</p>
-        <p>Forever yours 💖</p>
+        <p>Will you be my valentine sthandwa sami? 💌</p>
+        <p>Forever yours.Siyamthemba💖</p>
     </div>
 </div>
 
